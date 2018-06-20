@@ -5,4 +5,4 @@ Attempting to use blockchain as a basis for PKI
 
 The white papers containing the preliminary research on the different components of the project are saved to the N57 shared drive.
 
-The team is currently led by ENS Schumacher. LTJG Blaze, CTN1 , and CTN3 Kelley are the other current active team members. 
+The team is currently led by ENS Schumacher. LTJG Dibart, LTJG Blaze, CTN1 Fonseca, CTN3 Sessoms, CTN3 Brown,  and CTN3 Kelley are the other current active team members. 
